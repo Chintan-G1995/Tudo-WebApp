@@ -1,0 +1,16 @@
+.header {
+    background: #fff;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .nav-links li {
+    cursor: pointer;
+    padding: 0.5rem;
+  }

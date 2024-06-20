@@ -1,0 +1,41 @@
+.category-filter {
+    padding: 1rem;
+    width: 20%;
+    border-right: 1px solid #ddd;
+    background-color: black;
+    color: white;
+  }
+  
+  .category-filter h3 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .category-filter ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .category-filter ul li {
+    margin: 0.5rem 0;
+  }
+  
+  .color-filter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+  }
+  
+  .color {
+    width: 20px;
+    height: 20px;
+    margin-right: 0.5rem;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .red { background: red; }
+  .blue { background: blue; }
+  .green { background: green; }
+  .yellow { background: yellow; }
+  .purple { background: purple; }
+  
